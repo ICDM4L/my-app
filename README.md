@@ -1,15 +1,15 @@
 <div>As a user</div>
 <div>I want to add a new task to my to-do list</div>
 <div>so that I can keep track of things I need to do.</div>
-<div></div>
+<div> </div>
 <div>As a user </div>
 <div>I want to mark tasks as completed</div>
 <div>so that I can see what I've accomplished.</div>
-<div></div>
+<div> </div>
 <div>As a user</div>
 <div>I want to delete tasks that are no longer needed </div>
 <div>so that my list stays relevant.</div>
-<div></div>
+<div> </div>
 <div>As a user</div>
 <div>I want to edit existing tasks </div>
 <div>so that I can update them with new information.</div>
